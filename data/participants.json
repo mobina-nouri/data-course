@@ -363,5 +363,12 @@
   {
     "name": "Niloofar Elahi",
     "education":"B.sc. in statistics, University of Tehran"
+  },
+  {
+    "name": "Mobina Nouri",
+    "linkedin": "https://www.linkedin.com/in/mobina-nouri",
+    "education": [
+      "M.Sc. in Computer Engineering, University of technoligy of Urmia"
+    ]
   }
 ]
